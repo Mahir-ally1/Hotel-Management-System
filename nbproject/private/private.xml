@@ -3,10 +3,22 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Customer_Home.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Cab_Booking.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/CheckIn.java</file>
             <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Login.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Manager_ChangeCategory.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Manager_RoomStatus.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Manager.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/FAQ.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Forgot_Password.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Customer_Home.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Create_Account.java</file>
             <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Home.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Manager_PaySlip.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Restaurant.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Manager_Modify.java</file>
             <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/Customer_BookRoom.java</file>
+            <file>file:/C:/Users/mahir/Desktop/WORK/Lab-Project/HotelReservation-master/HotelReservation-master/HotelManagement/src/hotelmanagement/ModifyBooking.java</file>
         </group>
     </open-files>
 </project-private>
